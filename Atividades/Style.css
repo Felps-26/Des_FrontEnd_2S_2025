@@ -1,0 +1,14 @@
+.title {
+    color: purple;
+    text-align: center;
+}
+
+.paragraph {
+    font-size: 18px;
+    color: gray;
+}
+
+.link {
+    color: green;
+    text-decoration: none;
+}
